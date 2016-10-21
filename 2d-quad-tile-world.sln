@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d-quad-tile-world.CSharp.Plugins", "2d-quad-tile-world.CSharp.Plugins.csproj", "{BF821D75-6539-A81B-56A8-7DF3C1D69694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d-quad-tile-world.CSharp", "2d-quad-tile-world.CSharp.csproj", "{4B32FA4D-89B3-304E-1714-9BB17B2E39DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d-quad-tile-world.CSharp.Editor", "2d-quad-tile-world.CSharp.Editor.csproj", "{ABD77300-3299-AD7A-7305-587C8D530258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF821D75-6539-A81B-56A8-7DF3C1D69694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF821D75-6539-A81B-56A8-7DF3C1D69694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF821D75-6539-A81B-56A8-7DF3C1D69694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF821D75-6539-A81B-56A8-7DF3C1D69694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B32FA4D-89B3-304E-1714-9BB17B2E39DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B32FA4D-89B3-304E-1714-9BB17B2E39DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B32FA4D-89B3-304E-1714-9BB17B2E39DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B32FA4D-89B3-304E-1714-9BB17B2E39DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD77300-3299-AD7A-7305-587C8D530258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD77300-3299-AD7A-7305-587C8D530258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD77300-3299-AD7A-7305-587C8D530258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD77300-3299-AD7A-7305-587C8D530258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
